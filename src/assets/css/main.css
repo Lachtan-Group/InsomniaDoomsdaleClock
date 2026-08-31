@@ -4,6 +4,7 @@
   --color-bg: #ffffff;
   --color-bg-card: #f3f4f6;
   --color-text: #111827;
+  --color-text-subtle: #4b5563;
   --color-text-muted: #6b7280;
 }
 
@@ -11,6 +12,7 @@
   --color-bg: #111827;
   --color-bg-card: #1f2937;
   --color-text: #f3f4f6;
+  --color-text-subtle: #d1d5db;
   --color-text-muted: #9ca3af;
 }
 

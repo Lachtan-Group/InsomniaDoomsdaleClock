@@ -1,7 +1,7 @@
 <template>
-  <div class="flex flex-col items-center bg-gray-100 rounded-lg p-4 w-24 bg-bg-card">
+  <div class="flex flex-col items-center bg-gray-100 rounded-lg p-8 w-32">
     <span class="text-3xl font-bold">{{ time }}</span>
-    <span class="text-sm text-gray-500"> {{ timeType }} </span>
+    <span class="text-md text-gray-500"> {{ timeType }} </span>
   </div>
 </template>
 

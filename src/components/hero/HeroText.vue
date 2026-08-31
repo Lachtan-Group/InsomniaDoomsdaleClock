@@ -1,5 +1,5 @@
 <template>
-  <p class="text-3xl font-bold text-text text-center"> {{ title }}</p>
+  <p class="text-5xl w-1/3 font-bold text-text text-center"> {{ title }}</p>
 </template>
 
 <script setup lang="ts">
