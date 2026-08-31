@@ -13,7 +13,7 @@
       <HeroDescription
         text="When this countdown reaches 0 on September 1st, 2036 at 00:00 and Lukáš and Mišo still haven't fixed their sleeping schedules, they will be consider a failure!" />
     </div>
-    <ToggleModeButton text="Toggle dark mode" class="pb-1" />
+    <ToggleModeButton text="Toggle dark mode" class="pb-1 max-sm:pt-12" />
   </AppMain>
 </template>
 
